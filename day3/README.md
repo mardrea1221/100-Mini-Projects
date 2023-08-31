@@ -17,6 +17,6 @@ Welcome to the Flow Field React project! In this project, we'll generate a flow 
 
 ## Credit
 
-Credit goes to The Coding Train for the tutorial video.
+- Credit goes to The Coding Train for the tutorial video.
 
-Youtube Link: https://youtu.be/BjoM9oKOAKY?si=_7wpHBRNFKf9rnlb
+- Youtube Link: https://youtu.be/BjoM9oKOAKY?si=_7wpHBRNFKf9rnlb
