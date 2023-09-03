@@ -12,14 +12,14 @@ Insect Catcher is a simple game where you catch randomly generated insects by cl
 
 ![Alt text](lb-game.png)
 
-# How to Play
+## How to Play
 - Click on "START" to begin the game.
 - Choose an insect to catch from the options provided.
 - Click on the insects that appear on the game board to catch them.
 - Your score will increase with each insect caught.
 - Click "BACK" to return to the insect selection screen or end the game.
 
-# Features
+## Features
 - Randomly generated insects for a dynamic gameplay experience.
 - Timer to track the game duration.
 - Scoreboard to display your current score.
