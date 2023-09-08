@@ -2,6 +2,8 @@
 
 Insect Catcher is a simple game where you catch randomly generated insects by clicking on them. The goal is to catch as many insects as you can within a set time frame and earn a high score.
 
+## Screenshots
+
 ![Alt text](choose.png)
 
 ![Alt text](bt-game.png)

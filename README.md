@@ -5,6 +5,17 @@ This repository is my attempt to complete Florin Pop's "100 Days - 100 Projects"
 
 I plan to continuously update this repository as I progress through the challenge.
 
+## Screenshots
+
+To be updated... 🚧 🔨
+
+## Credit
+
+Credit goes to Florin Pop (@florinpop1705) for this challenge. 
+
+Website Link: https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
+
+
 ## Setup
 To run this project, install it locally using npm:
 
@@ -13,15 +24,6 @@ $ cd ../name
 $ npm install
 $ npm start
 ```
-## Credit
-
-Credit goes to Florin Pop (@florinpop1705) for this challenge. 
-
-Website Link: https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
-## Screenshots
-
-To be updated... 🚧 🔨
-
 
 ## Available Scripts
 

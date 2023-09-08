@@ -2,6 +2,7 @@
 
 Welcome to the Mood Calendar! This app allows you to track your mood by selecting different colors for each day on a calendar. It's a visual way to see how your mood changes over time.
 
+## Screenshots
 ![Alt text](mood_calendar.png)
 
 ## Features
