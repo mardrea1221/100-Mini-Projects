@@ -94,11 +94,16 @@ function App() {
     setID('');
   }
 
+  function displayWelcomeMessage() {
+    console.log("Welcome to the game!");
+  }
+
   return (
     <div className="App">
        {display ? (<div className='container1'>
             <h1 className='play-hdr'>PLAY THE GAME!</h1>
             <div id='strt-bt'>
+              <button onClick={displayWelcomeMessage}>Show Welcome</button>
               <button onClick={() => setDisplay(false)} className='strt-btn'>START</button>
             </div>
        </div> ) : 
