@@ -13,7 +13,7 @@ To be updated... 🚧 🔨
 
 Credit goes to Florin Pop (@florinpop1705) for this challenge. 
 
-Website Link: https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
+Website Link: https://www.florin-pop.com/blog/100-days-100-projects/
 
 
 ## Setup
